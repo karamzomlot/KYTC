@@ -1,4 +1,4 @@
-# KYTC
+# KYTC Landing Page :classical_building:	
 This is a landing page for Khan Younis Trainig College (KYTC).
 
  ## Visit Site :boom:
