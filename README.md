@@ -3,8 +3,7 @@ This is a landing page for Khani Younis Trainig College (KYTC).
 
  ## Visit Site :boom:
  
- **[Visit Page](https://karam-zomlut.github.io/KYTC/){:target="_blank"}**
-
+[go](https://karam-zomlut.github.io/KYTC/){:target="_blank" rel="noopener"}
 
 ## Used Skills: :exclamation:
 
