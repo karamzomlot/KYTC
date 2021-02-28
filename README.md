@@ -12,5 +12,5 @@
 - JS
 
 ## Website Image:	:point_down:	 :point_down:	
- ![skills](img/KYTC.png)
+ ![FullScreen](img/KYTC.png)
  
