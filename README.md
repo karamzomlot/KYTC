@@ -1,5 +1,5 @@
 # KYTC
-This is a landing page for Khani Younis Trainig College (KYTC).
+This is a landing page for Khan Younis Trainig College (KYTC).
 
  ## Visit Site :boom:
  
@@ -7,7 +7,10 @@ This is a landing page for Khani Younis Trainig College (KYTC).
 
 ## Used Skills: :exclamation:
 
-- html
-- css
-- js
+- HTML
+- CSS
+- JS
+
+## Website Image:	:point_down:	 :point_down:	
+ ![skills](img/KYTC.png)
  
